@@ -1,0 +1,210 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Teclado 78005 Negro",
+      "marca": "Noganet",
+      "clasificacion": "Teclados",
+      "stock": "Si",
+      "cantidad": "2"
+    },
+    {
+      "id": 2,
+      "nombre": "Teclado KB-125",
+      "marca": "Genius",
+      "clasificacion": "Teclados",
+      "stock": "Si",
+      "cantidad": "3"
+    },
+    {
+      "id": 3,
+      "nombre": "Mouse M4",
+      "marca": "Xinua",
+      "clasificacion": "Mouses",
+      "stock": "Si",
+      "cantidad": "3"
+    },
+    {
+      "id": 4,
+      "nombre": "Mouse M170",
+      "marca": "Logitech",
+      "clasificacion": "Mouses",
+      "stock": "Si",
+      "cantidad": "4"
+    },
+    {
+      "id": 5,
+      "nombre": "Tablet S4",
+      "marca": "Samsung",
+      "clasificacion": "Tablets",
+      "stock": "Si",
+      "cantidad": "2"
+    },
+    {
+      "id": 6,
+      "nombre": "Tablet S5",
+      "marca": "Samsung",
+      "clasificacion": "Tablets",
+      "stock": "Si",
+      "cantidad": "2"
+    },
+    {
+      "id": 7,
+      "nombre": "Tablet L125",
+      "marca": "Lenovo",
+      "clasificacion": "Tablets",
+      "stock": "Si",
+      "cantidad": "2"
+    },
+    {
+      "id": 8,
+      "nombre": "Parlante SK12",
+      "marca": "Edifier",
+      "clasificacion": "Parlantes",
+      "stock": "Si",
+      "cantidad": "2"
+    },
+    {
+      "id": 9,
+      "nombre": "Parlantes 120",
+      "marca": "Genius",
+      "clasificacion": "Parlantes",
+      "stock": "Si",
+      "cantidad": "2"
+    },
+    {
+      "id": 10,
+      "nombre": "Router Wireless TP101",
+      "marca": "TP-Link",
+      "clasificacion": "Conectividad",
+      "stock": "Si",
+      "cantidad": "2"
+    },
+    {
+      "id": 11,
+      "nombre": "Placa USB Wireless TP102",
+      "marca": "TP-Link",
+      "clasificacion": "Conectividad",
+      "stock": "Si",
+      "cantidad": "2"
+    },
+    {
+      "id": 12,
+      "nombre": "Swich TP205",
+      "marca": "TP-Link",
+      "clasificacion": "Conectividad",
+      "stock": "Si",
+      "cantidad": "2"
+    },
+    {
+      "id": 13,
+      "nombre": "Disco Rigido HD 160 GB",
+      "marca": "Western Digital",
+      "clasificacion": "Discos Rigidos",
+      "stock": "Si",
+      "cantidad": "7"
+    },
+    {
+      "id": 14,
+      "nombre": "Disco Rigido SD 320 GB",
+      "marca": "Hitachi",
+      "clasificacion": "Discos Rigidos",
+      "stock": "Si",
+      "cantidad": "20"
+    },
+    {
+      "id": 15,
+      "nombre": "Disco Rigido SD 1 TB",
+      "marca": "Seagate",
+      "clasificacion": "Discos Rigidos",
+      "stock": "Si",
+      "cantidad": "2"
+    },
+    {
+      "id": 16,
+      "nombre": "Memoria 2 GB",
+      "marca": "Kingston",
+      "clasificacion": "Memorias",
+      "stock": "Si",
+      "cantidad": "5"
+    },
+    {
+      "id": 17,
+      "nombre": "Memoria 4 GB",
+      "marca": "Kingston",
+      "clasificacion": "Memorias",
+      "stock": "Si",
+      "cantidad": "7"
+    },
+    {
+      "id": 18,
+      "nombre": "Notebook HP Pavilion I5-480GB-16GB",
+      "marca": "HP",
+      "clasificacion": "Notebooks",
+      "stock": "Si",
+      "cantidad": "2"
+    },
+    {
+      "id": 19,
+      "nombre": "Notebook HP Pavilion I7-1TB-32GB",
+      "marca": "HP",
+      "clasificacion": "Notebooks",
+      "stock": "Si",
+      "cantidad": "2"
+    },
+    {
+      "id": 20,
+      "nombre": "Equipo Completo I5-320GB-4GB",
+      "marca": "EuroCase",
+      "clasificacion": "Computadoras",
+      "stock": "Si",
+      "cantidad": "2"
+    },
+    {
+      "id": 21,
+      "nombre": "Equipo Completo I7-640GB-32GB",
+      "marca": "Bangho",
+      "clasificacion": "Computadoras",
+      "stock": "Si",
+      "cantidad": "2"
+    }
+  ],
+  "clasificaciones": [
+    {
+      "nombre": "Teclados",
+      "id": 1
+    },
+    {
+      "nombre": "Mouses",
+      "id": 2
+    },
+    {
+      "nombre": "Tablets",
+      "id": 3
+    },
+    {
+      "nombre": "Parlantes",
+      "id": 4
+    },
+    {
+      "nombre": "Conectividad",
+      "id": 5
+    },
+    {
+      "nombre": "Disco Rigidos",
+      "id": 6
+    },
+    {
+      "nombre": "Memorias",
+      "id": 7
+    },
+    {
+      "nombre": "Notebooks",
+      "id": 8
+    },
+    {
+      "nombre": "Computadoras",
+      "id": 9
+    }
+  ]
+}
