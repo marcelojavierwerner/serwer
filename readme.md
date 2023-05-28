@@ -7,4 +7,4 @@ Se agrega a modo informativo el archivo productos.json
 que es del API que creamos para usar en nuestro proyecto
 La pagina resapi consume nuestra API y resfor es la que
 adaptacion de ShowData que nos explico en la clase de formularios
-Trabajamos con CSS, Bootstrap y fue hecha de forma responsive. 
+Trabajamos con CSS, Bootstrap, VUE para el API y fue hecha de forma responsive. 
